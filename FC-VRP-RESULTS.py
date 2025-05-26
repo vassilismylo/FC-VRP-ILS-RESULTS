@@ -20,10 +20,10 @@ st.set_page_config(
 st.markdown("""
 <style>
     .main-header {
-        font-size: 3.5rem;
+        font-size: 8 rem;
         font-weight: bold;
         text-align: center;
-        color: #1f77b4;
+        color: black;
         margin-bottom: 2rem;
     }
     .metric-card {
