@@ -20,11 +20,20 @@ st.set_page_config(
 st.markdown("""
 <style>
     .main-header {
-        font-size: 8 rem;
+        font-size: 4rem;
         font-weight: bold;
         text-align: center;
-        color: black;
-        margin-bottom: 2rem;
+        color: #2C3E50;
+        margin-bottom: 3rem;
+        text-shadow: 2px 2px 4px rgba(0,0,0,0.1);
+    }
+    .section-header {
+        font-size: 2.5rem;
+        font-weight: bold;
+        color: #34495E;
+        margin: 2rem 0 1.5rem 0;
+        border-bottom: 3px solid #3498DB;
+        padding-bottom: 0.5rem;
     }
     .metric-card {
         background-color: #f0f2f6;
@@ -34,30 +43,35 @@ st.markdown("""
         margin: 0.5rem 0;
     }
     .success-metric {
-        border-left-color: #28a745;
+        border-left-color: #27AE60;
     }
     .warning-metric {
         border-left-color: #ffc107;
     }
     .danger-metric {
-        border-left-color: #dc3545;
+        border-left-color: #E74C3C;
     }
     .instance-header {
-        font-size: 1.5rem;
+        font-size: 2.2rem;
         font-weight: bold;
-        color: #333;
-        margin: 1rem 0;
+        color: #2C3E50;
+        margin: 2rem 0;
+        text-align: center;
+        padding: 1rem;
+        background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+        border-radius: 10px;
+        border-left: 5px solid #3498DB;
     }
     .comparison-better {
-        color: #28a745;
+        color: #27AE60;
         font-weight: bold;
     }
     .comparison-worse {
-        color: #dc3545;
+        color: #E74C3C;
         font-weight: bold;
     }
     .comparison-equal {
-        color: #6c757d;
+        color: #3498DB;
         font-weight: bold;
     }
 </style>
@@ -210,7 +224,8 @@ def display_home_page(results, best_known, validation_data):
 
     # Performance comparison (only for valid instances)
     if stats['compared_instances'] > 0:
-        st.subheader("📊 Performance vs Best Known Solutions")
+        st.markdown('<p class="section-header">📊 Performance vs Best Known Solutions</p>',
+                    unsafe_allow_html=True)
 
         col1, col2, col3 = st.columns(3)
 
@@ -242,25 +257,38 @@ def display_home_page(results, best_known, validation_data):
                 delta_color="inverse"
             )
 
-        # Performance distribution chart
+        # Performance distribution chart with custom colors
         performance_data = pd.DataFrame({
             'Status': ['Better', 'Equal', 'Worse'],
             'Count': [stats['better'], stats['equal'], stats['worse']],
-            'Color': ['#28a745', '#6c757d', '#dc3545']
         })
+
+        # Custom color mapping: Better=Green, Equal=Blue, Worse=Light Red
+        custom_colors = {
+            'Better': '#27AE60',  # Green
+            'Equal': '#3498DB',   # Blue
+            'Worse': '#FF7F7F'    # Light Red
+        }
 
         fig = px.pie(
             performance_data,
             values='Count',
             names='Status',
             title="Solution Quality Distribution",
-            color_discrete_map={'Better': '#28a745', 'Equal': '#6c757d', 'Worse': '#dc3545'}
+            color='Status',
+            color_discrete_map=custom_colors
         )
-        fig.update_layout(height=400)
+        fig.update_layout(
+            height=400,
+            title_font_size=20,
+            title_font_color='#2C3E50',
+            font=dict(size=14)
+        )
         st.plotly_chart(fig, use_container_width=True)
 
         # Detailed results table
-        st.subheader("📋 Detailed Results")
+        st.markdown('<p class="section-header">📋 Detailed Results</p>',
+                    unsafe_allow_html=True)
 
         # Add filters
         col1, col2 = st.columns(2)
@@ -283,14 +311,14 @@ def display_home_page(results, best_known, validation_data):
 
         df = df.sort_values(sort_by, ascending=True if sort_by != "Difference" else False)
 
-        # Style the dataframe
+        # Style the dataframe with custom colors
         def style_status(val):
             if val == 'Better':
-                return 'color: #28a745; font-weight: bold'
+                return 'color: #27AE60; font-weight: bold'  # Green
             elif val == 'Worse':
-                return 'color: #dc3545; font-weight: bold'
-            else:
-                return 'color: #6c757d; font-weight: bold'
+                return 'color: #FF7F7F; font-weight: bold'  # Light Red
+            else:  # Equal
+                return 'color: #3498DB; font-weight: bold'  # Blue
 
         styled_df = df.style.map(style_status, subset=['Status'])
         st.dataframe(styled_df, use_container_width=True, height=400)
@@ -387,7 +415,8 @@ def display_instance_detail(instance_name, results, best_known, validation_data)
     col1, col2 = st.columns([1, 1])
 
     with col1:
-        st.subheader("🗺️ Solution Visualization")
+        st.markdown('<p class="section-header">🗺️ Solution Visualization</p>',
+                    unsafe_allow_html=True)
         viz_path = Path("Visualizations") / data['visualization_file']
 
         if viz_path.exists():
@@ -400,7 +429,8 @@ def display_instance_detail(instance_name, results, best_known, validation_data)
             st.error("Visualization file not found!")
 
     with col2:
-        st.subheader("📄 Solution Details")
+        st.markdown('<p class="section-header">📄 Solution Details</p>',
+                    unsafe_allow_html=True)
         solution_path = Path("Solutions_ILS") / data['solution_file']
 
         if solution_path.exists():
@@ -420,7 +450,8 @@ def display_instance_detail(instance_name, results, best_known, validation_data)
             st.error("Solution file not found!")
 
     # Additional information
-    st.subheader("ℹ️ Additional Information")
+    st.markdown('<p class="section-header">ℹ️ Additional Information</p>',
+                unsafe_allow_html=True)
     info_col1, info_col2 = st.columns(2)
 
     with info_col1:
