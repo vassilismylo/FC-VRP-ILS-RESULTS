@@ -1702,44 +1702,12 @@
     "timestamp": "2025-05-26 15:06:12",
     "resolved_invalid": true
   },
-  "fcvrp_P-n51-k10_5_7_4.txt": {
-    "cost": 456,
-    "solving_time_seconds": 76.585,
-    "solution_file": "solution_fcvrp_P-n51-k10_5_7_4.txt",
-    "visualization_file": "solution_fcvrp_P-n51-k10_5_7_4.png",
-    "timestamp": "2025-05-26 15:08:27",
-    "resolved_invalid": true
-  },
-  "fcvrp_P-n51-k10_5_8_1.txt": {
-    "cost": 523,
-    "solving_time_seconds": 80.292,
-    "solution_file": "solution_fcvrp_P-n51-k10_5_8_1.txt",
-    "visualization_file": "solution_fcvrp_P-n51-k10_5_8_1.png",
-    "timestamp": "2025-05-26 15:09:51",
-    "resolved_invalid": true
-  },
   "fcvrp_P-n51-k10_5_10_3.txt": {
     "cost": 689,
     "solving_time_seconds": 70.622,
     "solution_file": "solution_fcvrp_P-n51-k10_5_10_3.txt",
     "visualization_file": "solution_fcvrp_P-n51-k10_5_10_3.png",
     "timestamp": "2025-05-26 15:11:03",
-    "resolved_invalid": true
-  },
-  "fcvrp_P-n55-k7_6_4_4.txt": {
-    "cost": 320,
-    "solving_time_seconds": 88.375,
-    "solution_file": "solution_fcvrp_P-n55-k7_6_4_4.txt",
-    "visualization_file": "solution_fcvrp_P-n55-k7_6_4_4.png",
-    "timestamp": "2025-05-26 15:12:33",
-    "resolved_invalid": true
-  },
-  "fcvrp_P-n55-k7_6_5_3.txt": {
-    "cost": 432,
-    "solving_time_seconds": 136.521,
-    "solution_file": "solution_fcvrp_P-n55-k7_6_5_3.txt",
-    "visualization_file": "solution_fcvrp_P-n55-k7_6_5_3.png",
-    "timestamp": "2025-05-26 15:14:52",
     "resolved_invalid": true
   },
   "fcvrp_P-n55-k8_17_3_2.txt": {
@@ -1766,14 +1734,6 @@
     "timestamp": "2025-05-26 15:16:53",
     "resolved_invalid": true
   },
-  "fcvrp_P-n55-k8_28_5_4.txt": {
-    "cost": 427,
-    "solving_time_seconds": 48.764,
-    "solution_file": "solution_fcvrp_P-n55-k8_28_5_4.txt",
-    "visualization_file": "solution_fcvrp_P-n55-k8_28_5_4.png",
-    "timestamp": "2025-05-26 15:17:46",
-    "resolved_invalid": true
-  },
   "fcvrp_P-n55-k10_6_4_2.txt": {
     "cost": 248,
     "solving_time_seconds": 40.76,
@@ -1798,14 +1758,6 @@
     "timestamp": "2025-05-26 15:20:32",
     "resolved_invalid": true
   },
-  "fcvrp_P-n55-k15_6_7_2.txt": {
-    "cost": 318,
-    "solving_time_seconds": 24.52,
-    "solution_file": "solution_fcvrp_P-n55-k15_6_7_2.txt",
-    "visualization_file": "solution_fcvrp_P-n55-k15_6_7_2.png",
-    "timestamp": "2025-05-26 15:20:58",
-    "resolved_invalid": true
-  },
   "fcvrp_P-n55-k15_6_11_4.txt": {
     "cost": 596,
     "solving_time_seconds": 46.698,
@@ -1814,76 +1766,12 @@
     "timestamp": "2025-05-26 15:21:47",
     "resolved_invalid": true
   },
-  "fcvrp_P-n55-k15_17_7_2.txt": {
-    "cost": 357,
-    "solving_time_seconds": 22.475,
-    "solution_file": "solution_fcvrp_P-n55-k15_17_7_2.txt",
-    "visualization_file": "solution_fcvrp_P-n55-k15_17_7_2.png",
-    "timestamp": "2025-05-26 15:22:12",
-    "resolved_invalid": true
-  },
-  "fcvrp_P-n55-k15_17_8_4.txt": {
-    "cost": 466,
-    "solving_time_seconds": 24.307,
-    "solution_file": "solution_fcvrp_P-n55-k15_17_8_4.txt",
-    "visualization_file": "solution_fcvrp_P-n55-k15_17_8_4.png",
-    "timestamp": "2025-05-26 15:22:38",
-    "resolved_invalid": true
-  },
-  "fcvrp_P-n55-k15_17_9_1.txt": {
-    "cost": 471,
-    "solving_time_seconds": 24.246,
-    "solution_file": "solution_fcvrp_P-n55-k15_17_9_1.txt",
-    "visualization_file": "solution_fcvrp_P-n55-k15_17_9_1.png",
-    "timestamp": "2025-05-26 15:23:05",
-    "resolved_invalid": true
-  },
-  "fcvrp_P-n55-k15_17_13_3.txt": {
-    "cost": 687,
-    "solving_time_seconds": 53.295,
-    "solution_file": "solution_fcvrp_P-n55-k15_17_13_3.txt",
-    "visualization_file": "solution_fcvrp_P-n55-k15_17_13_3.png",
-    "timestamp": "2025-05-26 15:24:00",
-    "resolved_invalid": true
-  },
-  "fcvrp_P-n55-k15_28_9_2.txt": {
-    "cost": 525,
-    "solving_time_seconds": 31.249,
-    "solution_file": "solution_fcvrp_P-n55-k15_28_9_2.txt",
-    "visualization_file": "solution_fcvrp_P-n55-k15_28_9_2.png",
-    "timestamp": "2025-05-26 15:24:34",
-    "resolved_invalid": true
-  },
-  "fcvrp_P-n60-k10_6_5_1.txt": {
-    "cost": 316,
-    "solving_time_seconds": 77.979,
-    "solution_file": "solution_fcvrp_P-n60-k10_6_5_1.txt",
-    "visualization_file": "solution_fcvrp_P-n60-k10_6_5_1.png",
-    "timestamp": "2025-05-26 15:25:54",
-    "resolved_invalid": true
-  },
   "fcvrp_P-n60-k10_6_7_4.txt": {
     "cost": 475,
     "solving_time_seconds": 54.287,
     "solution_file": "solution_fcvrp_P-n60-k10_6_7_4.txt",
     "visualization_file": "solution_fcvrp_P-n60-k10_6_7_4.png",
     "timestamp": "2025-05-26 15:26:49",
-    "resolved_invalid": true
-  },
-  "fcvrp_P-n60-k10_18_6_4.txt": {
-    "cost": 456,
-    "solving_time_seconds": 39.926,
-    "solution_file": "solution_fcvrp_P-n60-k10_18_6_4.txt",
-    "visualization_file": "solution_fcvrp_P-n60-k10_18_6_4.png",
-    "timestamp": "2025-05-26 15:27:32",
-    "resolved_invalid": true
-  },
-  "fcvrp_P-n60-k10_30_6_2.txt": {
-    "cost": 441,
-    "solving_time_seconds": 41.437,
-    "solution_file": "solution_fcvrp_P-n60-k10_30_6_2.txt",
-    "visualization_file": "solution_fcvrp_P-n60-k10_30_6_2.png",
-    "timestamp": "2025-05-26 15:28:16",
     "resolved_invalid": true
   },
   "fcvrp_P-n60-k15_6_5_2.txt": {
@@ -1902,54 +1790,6 @@
     "timestamp": "2025-05-26 15:29:16",
     "resolved_invalid": true
   },
-  "fcvrp_P-n60-k15_6_10_4.txt": {
-    "cost": 622,
-    "solving_time_seconds": 46.697,
-    "solution_file": "solution_fcvrp_P-n60-k15_6_10_4.txt",
-    "visualization_file": "solution_fcvrp_P-n60-k15_6_10_4.png",
-    "timestamp": "2025-05-26 15:30:04",
-    "resolved_invalid": true
-  },
-  "fcvrp_P-n60-k15_6_14_3.txt": {
-    "cost": 931,
-    "solving_time_seconds": 86.291,
-    "solution_file": "solution_fcvrp_P-n60-k15_6_14_3.txt",
-    "visualization_file": "solution_fcvrp_P-n60-k15_6_14_3.png",
-    "timestamp": "2025-05-26 15:31:32",
-    "resolved_invalid": true
-  },
-  "fcvrp_P-n60-k15_18_8_1.txt": {
-    "cost": 463,
-    "solving_time_seconds": 25.996,
-    "solution_file": "solution_fcvrp_P-n60-k15_18_8_1.txt",
-    "visualization_file": "solution_fcvrp_P-n60-k15_18_8_1.png",
-    "timestamp": "2025-05-26 15:32:00",
-    "resolved_invalid": true
-  },
-  "fcvrp_P-n60-k15_18_9_4.txt": {
-    "cost": 568,
-    "solving_time_seconds": 38.981,
-    "solution_file": "solution_fcvrp_P-n60-k15_18_9_4.txt",
-    "visualization_file": "solution_fcvrp_P-n60-k15_18_9_4.png",
-    "timestamp": "2025-05-26 15:32:40",
-    "resolved_invalid": true
-  },
-  "fcvrp_P-n60-k15_18_13_3.txt": {
-    "cost": 854,
-    "solving_time_seconds": 48.957,
-    "solution_file": "solution_fcvrp_P-n60-k15_18_13_3.txt",
-    "visualization_file": "solution_fcvrp_P-n60-k15_18_13_3.png",
-    "timestamp": "2025-05-26 15:33:31",
-    "resolved_invalid": true
-  },
-  "fcvrp_P-n60-k15_30_9_2.txt": {
-    "cost": 598,
-    "solving_time_seconds": 26.698,
-    "solution_file": "solution_fcvrp_P-n60-k15_30_9_2.txt",
-    "visualization_file": "solution_fcvrp_P-n60-k15_30_9_2.png",
-    "timestamp": "2025-05-26 15:34:00",
-    "resolved_invalid": true
-  },
   "fcvrp_P-n65-k10_7_6_4.txt": {
     "cost": 569,
     "solving_time_seconds": 58.279,
@@ -1958,108 +1798,12 @@
     "timestamp": "2025-05-26 15:34:59",
     "resolved_invalid": true
   },
-  "fcvrp_P-n65-k10_33_7_4.txt": {
-    "cost": 560,
-    "solving_time_seconds": 48.933,
-    "solution_file": "solution_fcvrp_P-n65-k10_33_7_4.txt",
-    "visualization_file": "solution_fcvrp_P-n65-k10_33_7_4.png",
-    "timestamp": "2025-05-26 15:35:50",
-    "resolved_invalid": true
-  },
-  "fcvrp_P-n65-k10_33_9_3.txt": {
-    "cost": 728,
-    "solving_time_seconds": 59.058,
-    "solution_file": "solution_fcvrp_P-n65-k10_33_9_3.txt",
-    "visualization_file": "solution_fcvrp_P-n65-k10_33_9_3.png",
-    "timestamp": "2025-05-26 15:36:52",
-    "resolved_invalid": true
-  },
   "fcvrp_P-n70-k10_35_10_3.txt": {
     "cost": 850,
     "solving_time_seconds": 40.244,
     "solution_file": "solution_fcvrp_P-n70-k10_35_10_3.txt",
     "visualization_file": "solution_fcvrp_P-n70-k10_35_10_3.png",
     "timestamp": "2025-05-26 15:37:34",
-    "resolved_invalid": true
-  },
-  "fcvrp_P-n76-k5_38_3_2.txt": {
-    "cost": 374,
-    "solving_time_seconds": 78.968,
-    "solution_file": "solution_fcvrp_P-n76-k5_38_3_2.txt",
-    "visualization_file": "solution_fcvrp_P-n76-k5_38_3_2.png",
-    "timestamp": "2025-05-26 15:38:55",
-    "resolved_invalid": true
-  },
-  "fcvrp_P-n19-k2_6_2_3.txt": {
-    "cost": 204,
-    "solving_time_seconds": 11.182,
-    "solution_file": "solution_fcvrp_P-n19-k2_6_2_3.txt",
-    "visualization_file": "solution_fcvrp_P-n19-k2_6_2_3.png",
-    "timestamp": "2025-05-26 16:24:45",
-    "resolved_invalid": true
-  },
-  "fcvrp_P-n20-k2_10_2_3.txt": {
-    "cost": 209,
-    "solving_time_seconds": 9.658,
-    "solution_file": "solution_fcvrp_P-n20-k2_10_2_3.txt",
-    "visualization_file": "solution_fcvrp_P-n20-k2_10_2_3.png",
-    "timestamp": "2025-05-26 16:24:56",
-    "resolved_invalid": true
-  },
-  "fcvrp_P-n22-k8_11_5_2.txt": {
-    "cost": 288,
-    "solving_time_seconds": 10.195,
-    "solution_file": "solution_fcvrp_P-n22-k8_11_5_2.txt",
-    "visualization_file": "solution_fcvrp_P-n22-k8_11_5_2.png",
-    "timestamp": "2025-05-26 16:25:07",
-    "resolved_invalid": true
-  },
-  "fcvrp_P-n22-k8_11_6_1.txt": {
-    "cost": 374,
-    "solving_time_seconds": 14.319,
-    "solution_file": "solution_fcvrp_P-n22-k8_11_6_1.txt",
-    "visualization_file": "solution_fcvrp_P-n22-k8_11_6_1.png",
-    "timestamp": "2025-05-26 16:25:23",
-    "resolved_invalid": true
-  },
-  "fcvrp_P-n22-k8_11_8_3.txt": {
-    "cost": 494,
-    "solving_time_seconds": 14.229,
-    "solution_file": "solution_fcvrp_P-n22-k8_11_8_3.txt",
-    "visualization_file": "solution_fcvrp_P-n22-k8_11_8_3.png",
-    "timestamp": "2025-05-26 16:25:39",
-    "resolved_invalid": true
-  },
-  "fcvrp_P-n23-k8_12_6_1.txt": {
-    "cost": 354,
-    "solving_time_seconds": 13.917,
-    "solution_file": "solution_fcvrp_P-n23-k8_12_6_1.txt",
-    "visualization_file": "solution_fcvrp_P-n23-k8_12_6_1.png",
-    "timestamp": "2025-05-26 16:25:54",
-    "resolved_invalid": true
-  },
-  "fcvrp_P-n45-k5_5_3_1.txt": {
-    "cost": 294,
-    "solving_time_seconds": 100.24,
-    "solution_file": "solution_fcvrp_P-n45-k5_5_3_1.txt",
-    "visualization_file": "solution_fcvrp_P-n45-k5_5_3_1.png",
-    "timestamp": "2025-05-26 16:27:35",
-    "resolved_invalid": true
-  },
-  "fcvrp_P-n50-k7_15_3_2.txt": {
-    "cost": 245,
-    "solving_time_seconds": 38.87,
-    "solution_file": "solution_fcvrp_P-n50-k7_15_3_2.txt",
-    "visualization_file": "solution_fcvrp_P-n50-k7_15_3_2.png",
-    "timestamp": "2025-05-26 16:28:15",
-    "resolved_invalid": true
-  },
-  "fcvrp_P-n50-k10_5_3_2.txt": {
-    "cost": 161,
-    "solving_time_seconds": 43.301,
-    "solution_file": "solution_fcvrp_P-n50-k10_5_3_2.txt",
-    "visualization_file": "solution_fcvrp_P-n50-k10_5_3_2.png",
-    "timestamp": "2025-05-26 16:29:01",
     "resolved_invalid": true
   },
   "fcvrp_P151_15_5_2.txt": {
@@ -2089,5 +1833,569 @@
     "solution_file": "solution_fcvrp_P151_15_9_3.txt",
     "visualization_file": "solution_fcvrp_P151_15_9_3.png",
     "timestamp": "2025-05-26 18:09:15"
+  },
+  "fcvrp_P151_45_6_2.txt": {
+    "cost": 912,
+    "solving_time_seconds": 553.666,
+    "solution_file": "solution_fcvrp_P151_45_6_2.txt",
+    "visualization_file": "solution_fcvrp_P151_45_6_2.png",
+    "timestamp": "2025-05-26 18:18:34"
+  },
+  "fcvrp_P151_45_8_1.txt": {
+    "cost": 1348,
+    "solving_time_seconds": 997.936,
+    "solution_file": "solution_fcvrp_P151_45_8_1.txt",
+    "visualization_file": "solution_fcvrp_P151_45_8_1.png",
+    "timestamp": "2025-05-26 18:35:15"
+  },
+  "fcvrp_P151_45_8_4.txt": {
+    "cost": 1371,
+    "solving_time_seconds": 592.336,
+    "solution_file": "solution_fcvrp_P151_45_8_4.txt",
+    "visualization_file": "solution_fcvrp_P151_45_8_4.png",
+    "timestamp": "2025-05-26 18:45:11"
+  },
+  "fcvrp_P151_45_11_3.txt": {
+    "cost": 1836,
+    "solving_time_seconds": 951.485,
+    "solution_file": "solution_fcvrp_P151_45_11_3.txt",
+    "visualization_file": "solution_fcvrp_P151_45_11_3.png",
+    "timestamp": "2025-05-26 19:01:06"
+  },
+  "fcvrp_P151_75_8_2.txt": {
+    "cost": 1408,
+    "solving_time_seconds": 479.037,
+    "solution_file": "solution_fcvrp_P151_75_8_2.txt",
+    "visualization_file": "solution_fcvrp_P151_75_8_2.png",
+    "timestamp": "2025-05-26 19:09:09"
+  },
+  "fcvrp_P151_75_8_4.txt": {
+    "cost": 1395,
+    "solving_time_seconds": 593.295,
+    "solution_file": "solution_fcvrp_P151_75_8_4.txt",
+    "visualization_file": "solution_fcvrp_P151_75_8_4.png",
+    "timestamp": "2025-05-26 19:19:06"
+  },
+  "fcvrp_P151_75_9_1.txt": {
+    "cost": 1559,
+    "solving_time_seconds": 547.233,
+    "solution_file": "solution_fcvrp_P151_75_9_1.txt",
+    "visualization_file": "solution_fcvrp_P151_75_9_1.png",
+    "timestamp": "2025-05-26 19:28:17"
+  },
+  "fcvrp_P151_75_10_3.txt": {
+    "cost": 1740,
+    "solving_time_seconds": 444.542,
+    "solution_file": "solution_fcvrp_P151_75_10_3.txt",
+    "visualization_file": "solution_fcvrp_P151_75_10_3.png",
+    "timestamp": "2025-05-26 19:35:45"
+  },
+  "fcvrp_P201_20_4_2.txt": {
+    "cost": 504,
+    "solving_time_seconds": 2432.633,
+    "solution_file": "solution_fcvrp_P201_20_4_2.txt",
+    "visualization_file": "solution_fcvrp_P201_20_4_2.png",
+    "timestamp": "2025-05-26 20:16:21"
+  },
+  "fcvrp_P201_20_6_1.txt": {
+    "cost": 860,
+    "solving_time_seconds": 4433.995,
+    "solution_file": "solution_fcvrp_P201_20_6_1.txt",
+    "visualization_file": "solution_fcvrp_P201_20_6_1.png",
+    "timestamp": "2025-05-26 21:30:20"
+  },
+  "fcvrp_P201_20_6_4.txt": {
+    "cost": 877,
+    "solving_time_seconds": 3439.081,
+    "solution_file": "solution_fcvrp_P201_20_6_4.txt",
+    "visualization_file": "solution_fcvrp_P201_20_6_4.png",
+    "timestamp": "2025-05-26 22:27:41"
+  },
+  "fcvrp_P-n19-k2_6_2_3.txt": {
+    "cost": 222,
+    "solving_time_seconds": 5.809,
+    "solution_file": "solution_fcvrp_P-n19-k2_6_2_3.txt",
+    "visualization_file": "solution_fcvrp_P-n19-k2_6_2_3.png",
+    "timestamp": "2025-05-27 01:27:20",
+    "resolved_invalid": true
+  },
+  "fcvrp_P-n20-k2_10_2_3.txt": {
+    "cost": 209,
+    "solving_time_seconds": 4.387,
+    "solution_file": "solution_fcvrp_P-n20-k2_10_2_3.txt",
+    "visualization_file": "solution_fcvrp_P-n20-k2_10_2_3.png",
+    "timestamp": "2025-05-27 01:27:24",
+    "resolved_invalid": true
+  },
+  "fcvrp_P-n22-k8_11_5_2.txt": {
+    "cost": 444,
+    "solving_time_seconds": 3.148,
+    "solution_file": "solution_fcvrp_P-n22-k8_11_5_2.txt",
+    "visualization_file": "solution_fcvrp_P-n22-k8_11_5_2.png",
+    "timestamp": "2025-05-27 01:27:28",
+    "resolved_invalid": true
+  },
+  "fcvrp_P-n22-k8_11_6_1.txt": {
+    "cost": 616,
+    "solving_time_seconds": 0.011,
+    "solution_file": "solution_fcvrp_P-n22-k8_11_6_1.txt",
+    "visualization_file": "solution_fcvrp_P-n22-k8_11_6_1.png",
+    "timestamp": "2025-05-27 01:27:28",
+    "resolved_invalid": true
+  },
+  "fcvrp_P-n22-k8_11_8_3.txt": {
+    "cost": 752,
+    "solving_time_seconds": 0.002,
+    "solution_file": "solution_fcvrp_P-n22-k8_11_8_3.txt",
+    "visualization_file": "solution_fcvrp_P-n22-k8_11_8_3.png",
+    "timestamp": "2025-05-27 01:27:28",
+    "resolved_invalid": true
+  },
+  "fcvrp_P-n23-k8_12_6_1.txt": {
+    "cost": 380,
+    "solving_time_seconds": 3.923,
+    "solution_file": "solution_fcvrp_P-n23-k8_12_6_1.txt",
+    "visualization_file": "solution_fcvrp_P-n23-k8_12_6_1.png",
+    "timestamp": "2025-05-27 01:27:32",
+    "resolved_invalid": true
+  },
+  "fcvrp_P-n45-k5_5_3_1.txt": {
+    "cost": 295,
+    "solving_time_seconds": 34.924,
+    "solution_file": "solution_fcvrp_P-n45-k5_5_3_1.txt",
+    "visualization_file": "solution_fcvrp_P-n45-k5_5_3_1.png",
+    "timestamp": "2025-05-27 01:28:06",
+    "resolved_invalid": true
+  },
+  "fcvrp_P-n50-k7_15_3_2.txt": {
+    "cost": 252,
+    "solving_time_seconds": 20.224,
+    "solution_file": "solution_fcvrp_P-n50-k7_15_3_2.txt",
+    "visualization_file": "solution_fcvrp_P-n50-k7_15_3_2.png",
+    "timestamp": "2025-05-27 01:28:27",
+    "resolved_invalid": true
+  },
+  "fcvrp_P-n50-k10_5_3_2.txt": {
+    "cost": 326,
+    "solving_time_seconds": 0.015,
+    "solution_file": "solution_fcvrp_P-n50-k10_5_3_2.txt",
+    "visualization_file": "solution_fcvrp_P-n50-k10_5_3_2.png",
+    "timestamp": "2025-05-27 01:28:27",
+    "resolved_invalid": true
+  },
+  "fcvrp_P-n51-k10_5_7_4.txt": {
+    "cost": 514,
+    "solving_time_seconds": 31.724,
+    "solution_file": "solution_fcvrp_P-n51-k10_5_7_4.txt",
+    "visualization_file": "solution_fcvrp_P-n51-k10_5_7_4.png",
+    "timestamp": "2025-05-27 01:28:58",
+    "resolved_invalid": true
+  },
+  "fcvrp_P-n51-k10_5_8_1.txt": {
+    "cost": 578,
+    "solving_time_seconds": 25.022,
+    "solution_file": "solution_fcvrp_P-n51-k10_5_8_1.txt",
+    "visualization_file": "solution_fcvrp_P-n51-k10_5_8_1.png",
+    "timestamp": "2025-05-27 01:29:23",
+    "resolved_invalid": true
+  },
+  "fcvrp_P-n55-k7_6_4_4.txt": {
+    "cost": 356,
+    "solving_time_seconds": 53.184,
+    "solution_file": "solution_fcvrp_P-n55-k7_6_4_4.txt",
+    "visualization_file": "solution_fcvrp_P-n55-k7_6_4_4.png",
+    "timestamp": "2025-05-27 01:30:17",
+    "resolved_invalid": true
+  },
+  "fcvrp_P-n55-k7_6_5_3.txt": {
+    "cost": 442,
+    "solving_time_seconds": 71.642,
+    "solution_file": "solution_fcvrp_P-n55-k7_6_5_3.txt",
+    "visualization_file": "solution_fcvrp_P-n55-k7_6_5_3.png",
+    "timestamp": "2025-05-27 01:31:28",
+    "resolved_invalid": true
+  },
+  "fcvrp_P-n55-k8_28_5_4.txt": {
+    "cost": 712,
+    "solving_time_seconds": 0.006,
+    "solution_file": "solution_fcvrp_P-n55-k8_28_5_4.txt",
+    "visualization_file": "solution_fcvrp_P-n55-k8_28_5_4.png",
+    "timestamp": "2025-05-27 01:31:28",
+    "resolved_invalid": true
+  },
+  "fcvrp_P-n55-k15_6_7_2.txt": {
+    "cost": 508,
+    "solving_time_seconds": 0.005,
+    "solution_file": "solution_fcvrp_P-n55-k15_6_7_2.txt",
+    "visualization_file": "solution_fcvrp_P-n55-k15_6_7_2.png",
+    "timestamp": "2025-05-27 01:31:28",
+    "resolved_invalid": true
+  },
+  "fcvrp_P-n55-k15_17_7_2.txt": {
+    "cost": 376,
+    "solving_time_seconds": 12.879,
+    "solution_file": "solution_fcvrp_P-n55-k15_17_7_2.txt",
+    "visualization_file": "solution_fcvrp_P-n55-k15_17_7_2.png",
+    "timestamp": "2025-05-27 01:31:41",
+    "resolved_invalid": true
+  },
+  "fcvrp_P-n55-k15_17_8_4.txt": {
+    "cost": 467,
+    "solving_time_seconds": 14.013,
+    "solution_file": "solution_fcvrp_P-n55-k15_17_8_4.txt",
+    "visualization_file": "solution_fcvrp_P-n55-k15_17_8_4.png",
+    "timestamp": "2025-05-27 01:31:55",
+    "resolved_invalid": true
+  },
+  "fcvrp_P-n55-k15_17_9_1.txt": {
+    "cost": 523,
+    "solving_time_seconds": 15.455,
+    "solution_file": "solution_fcvrp_P-n55-k15_17_9_1.txt",
+    "visualization_file": "solution_fcvrp_P-n55-k15_17_9_1.png",
+    "timestamp": "2025-05-27 01:32:11",
+    "resolved_invalid": true
+  },
+  "fcvrp_P-n55-k15_17_13_3.txt": {
+    "cost": 801,
+    "solving_time_seconds": 41.001,
+    "solution_file": "solution_fcvrp_P-n55-k15_17_13_3.txt",
+    "visualization_file": "solution_fcvrp_P-n55-k15_17_13_3.png",
+    "timestamp": "2025-05-27 01:32:52",
+    "resolved_invalid": true
+  },
+  "fcvrp_P-n55-k15_28_9_2.txt": {
+    "cost": 569,
+    "solving_time_seconds": 17.119,
+    "solution_file": "solution_fcvrp_P-n55-k15_28_9_2.txt",
+    "visualization_file": "solution_fcvrp_P-n55-k15_28_9_2.png",
+    "timestamp": "2025-05-27 01:33:09",
+    "resolved_invalid": true
+  },
+  "fcvrp_P-n60-k10_6_5_1.txt": {
+    "cost": 324,
+    "solving_time_seconds": 31.167,
+    "solution_file": "solution_fcvrp_P-n60-k10_6_5_1.txt",
+    "visualization_file": "solution_fcvrp_P-n60-k10_6_5_1.png",
+    "timestamp": "2025-05-27 01:33:40",
+    "resolved_invalid": true
+  },
+  "fcvrp_P-n60-k10_18_6_4.txt": {
+    "cost": 467,
+    "solving_time_seconds": 40.656,
+    "solution_file": "solution_fcvrp_P-n60-k10_18_6_4.txt",
+    "visualization_file": "solution_fcvrp_P-n60-k10_18_6_4.png",
+    "timestamp": "2025-05-27 01:34:21",
+    "resolved_invalid": true
+  },
+  "fcvrp_P-n60-k10_30_6_2.txt": {
+    "cost": 481,
+    "solving_time_seconds": 40.226,
+    "solution_file": "solution_fcvrp_P-n60-k10_30_6_2.txt",
+    "visualization_file": "solution_fcvrp_P-n60-k10_30_6_2.png",
+    "timestamp": "2025-05-27 01:35:01",
+    "resolved_invalid": true
+  },
+  "fcvrp_P-n60-k15_6_10_4.txt": {
+    "cost": 662,
+    "solving_time_seconds": 29.085,
+    "solution_file": "solution_fcvrp_P-n60-k15_6_10_4.txt",
+    "visualization_file": "solution_fcvrp_P-n60-k15_6_10_4.png",
+    "timestamp": "2025-05-27 01:35:30",
+    "resolved_invalid": true
+  },
+  "fcvrp_P-n60-k15_6_14_3.txt": {
+    "cost": 948,
+    "solving_time_seconds": 56.713,
+    "solution_file": "solution_fcvrp_P-n60-k15_6_14_3.txt",
+    "visualization_file": "solution_fcvrp_P-n60-k15_6_14_3.png",
+    "timestamp": "2025-05-27 01:36:27",
+    "resolved_invalid": true
+  },
+  "fcvrp_P-n60-k15_18_8_1.txt": {
+    "cost": 781,
+    "solving_time_seconds": 0.008,
+    "solution_file": "solution_fcvrp_P-n60-k15_18_8_1.txt",
+    "visualization_file": "solution_fcvrp_P-n60-k15_18_8_1.png",
+    "timestamp": "2025-05-27 01:36:27",
+    "resolved_invalid": true
+  },
+  "fcvrp_P-n60-k15_18_9_4.txt": {
+    "cost": 613,
+    "solving_time_seconds": 18.337,
+    "solution_file": "solution_fcvrp_P-n60-k15_18_9_4.txt",
+    "visualization_file": "solution_fcvrp_P-n60-k15_18_9_4.png",
+    "timestamp": "2025-05-27 01:36:45",
+    "resolved_invalid": true
+  },
+  "fcvrp_P-n60-k15_18_13_3.txt": {
+    "cost": 853,
+    "solving_time_seconds": 33.873,
+    "solution_file": "solution_fcvrp_P-n60-k15_18_13_3.txt",
+    "visualization_file": "solution_fcvrp_P-n60-k15_18_13_3.png",
+    "timestamp": "2025-05-27 01:37:19",
+    "resolved_invalid": true
+  },
+  "fcvrp_P-n60-k15_30_9_2.txt": {
+    "cost": 625,
+    "solving_time_seconds": 23.016,
+    "solution_file": "solution_fcvrp_P-n60-k15_30_9_2.txt",
+    "visualization_file": "solution_fcvrp_P-n60-k15_30_9_2.png",
+    "timestamp": "2025-05-27 01:37:42",
+    "resolved_invalid": true
+  },
+  "fcvrp_P-n65-k10_33_7_4.txt": {
+    "cost": 573,
+    "solving_time_seconds": 30.993,
+    "solution_file": "solution_fcvrp_P-n65-k10_33_7_4.txt",
+    "visualization_file": "solution_fcvrp_P-n65-k10_33_7_4.png",
+    "timestamp": "2025-05-27 01:38:13",
+    "resolved_invalid": true
+  },
+  "fcvrp_P-n65-k10_33_9_3.txt": {
+    "cost": 723,
+    "solving_time_seconds": 46.595,
+    "solution_file": "solution_fcvrp_P-n65-k10_33_9_3.txt",
+    "visualization_file": "solution_fcvrp_P-n65-k10_33_9_3.png",
+    "timestamp": "2025-05-27 01:39:00",
+    "resolved_invalid": true
+  },
+  "fcvrp_P-n76-k5_38_3_2.txt": {
+    "cost": 378,
+    "solving_time_seconds": 101.748,
+    "solution_file": "solution_fcvrp_P-n76-k5_38_3_2.txt",
+    "visualization_file": "solution_fcvrp_P-n76-k5_38_3_2.png",
+    "timestamp": "2025-05-27 01:40:41",
+    "resolved_invalid": true
+  },
+  "fcvrp_P201_20_8_3.txt": {
+    "cost": 1158,
+    "solving_time_seconds": 759.672,
+    "solution_file": "solution_fcvrp_P201_20_8_3.txt",
+    "visualization_file": "solution_fcvrp_P201_20_8_3.png",
+    "timestamp": "2025-05-27 01:58:12"
+  },
+  "fcvrp_P201_60_6_2.txt": {
+    "cost": 768,
+    "solving_time_seconds": 207.785,
+    "solution_file": "solution_fcvrp_P201_60_6_2.txt",
+    "visualization_file": "solution_fcvrp_P201_60_6_2.png",
+    "timestamp": "2025-05-27 02:01:43"
+  },
+  "fcvrp_P201_60_9_1.txt": {
+    "cost": 1355,
+    "solving_time_seconds": 144.799,
+    "solution_file": "solution_fcvrp_P201_60_9_1.txt",
+    "visualization_file": "solution_fcvrp_P201_60_9_1.png",
+    "timestamp": "2025-05-27 02:04:10"
+  },
+  "fcvrp_P201_60_9_4.txt": {
+    "cost": 1205,
+    "solving_time_seconds": 360.725,
+    "solution_file": "solution_fcvrp_P201_60_9_4.txt",
+    "visualization_file": "solution_fcvrp_P201_60_9_4.png",
+    "timestamp": "2025-05-27 02:10:14"
+  },
+  "fcvrp_P201_60_12_3.txt": {
+    "cost": 1634,
+    "solving_time_seconds": 373.418,
+    "solution_file": "solution_fcvrp_P201_60_12_3.txt",
+    "visualization_file": "solution_fcvrp_P201_60_12_3.png",
+    "timestamp": "2025-05-27 02:16:31"
+  },
+  "fcvrp_P201_100_10_2.txt": {
+    "cost": 1578,
+    "solving_time_seconds": 211.489,
+    "solution_file": "solution_fcvrp_P201_100_10_2.txt",
+    "visualization_file": "solution_fcvrp_P201_100_10_2.png",
+    "timestamp": "2025-05-27 02:20:06"
+  },
+  "fcvrp_P201_100_11_4.txt": {
+    "cost": 1795,
+    "solving_time_seconds": 151.072,
+    "solution_file": "solution_fcvrp_P201_100_11_4.txt",
+    "visualization_file": "solution_fcvrp_P201_100_11_4.png",
+    "timestamp": "2025-05-27 02:22:42"
+  },
+  "fcvrp_P201_100_12_1.txt": {
+    "cost": 1866,
+    "solving_time_seconds": 146.417,
+    "solution_file": "solution_fcvrp_P201_100_12_1.txt",
+    "visualization_file": "solution_fcvrp_P201_100_12_1.png",
+    "timestamp": "2025-05-27 02:25:12"
+  },
+  "fcvrp_P201_100_13_3.txt": {
+    "cost": 2266,
+    "solving_time_seconds": 156.378,
+    "solution_file": "solution_fcvrp_P201_100_13_3.txt",
+    "visualization_file": "solution_fcvrp_P201_100_13_3.png",
+    "timestamp": "2025-05-27 02:27:53"
+  },
+  "fcvrp_P301_30_8_2.txt": {
+    "cost": 1001,
+    "solving_time_seconds": 227.845,
+    "solution_file": "solution_fcvrp_P301_30_8_2.txt",
+    "visualization_file": "solution_fcvrp_P301_30_8_2.png",
+    "timestamp": "2025-05-27 02:31:43"
+  },
+  "fcvrp_P301_30_12_1.txt": {
+    "cost": 1693,
+    "solving_time_seconds": 1620.76,
+    "solution_file": "solution_fcvrp_P301_30_12_1.txt",
+    "visualization_file": "solution_fcvrp_P301_30_12_1.png",
+    "timestamp": "2025-05-27 02:58:47"
+  },
+  "fcvrp_P301_30_13_4.txt": {
+    "cost": 1732,
+    "solving_time_seconds": 1662.614,
+    "solution_file": "solution_fcvrp_P301_30_13_4.txt",
+    "visualization_file": "solution_fcvrp_P301_30_13_4.png",
+    "timestamp": "2025-05-27 03:26:32"
+  },
+  "fcvrp_P301_30_17_3.txt": {
+    "cost": 2520,
+    "solving_time_seconds": 870.215,
+    "solution_file": "solution_fcvrp_P301_30_17_3.txt",
+    "visualization_file": "solution_fcvrp_P301_30_17_3.png",
+    "timestamp": "2025-05-27 03:41:04"
+  },
+  "fcvrp_P301_90_11_2.txt": {
+    "cost": 1737,
+    "solving_time_seconds": 937.602,
+    "solution_file": "solution_fcvrp_P301_90_11_2.txt",
+    "visualization_file": "solution_fcvrp_P301_90_11_2.png",
+    "timestamp": "2025-05-27 03:56:47"
+  },
+  "fcvrp_P301_90_13_4.txt": {
+    "cost": 2192,
+    "solving_time_seconds": 518.131,
+    "solution_file": "solution_fcvrp_P301_90_13_4.txt",
+    "visualization_file": "solution_fcvrp_P301_90_13_4.png",
+    "timestamp": "2025-05-27 04:05:29"
+  },
+  "fcvrp_P301_90_14_1.txt": {
+    "cost": 2372,
+    "solving_time_seconds": 492.418,
+    "solution_file": "solution_fcvrp_P301_90_14_1.txt",
+    "visualization_file": "solution_fcvrp_P301_90_14_1.png",
+    "timestamp": "2025-05-27 04:13:46"
+  },
+  "fcvrp_P301_90_18_3.txt": {
+    "cost": 3173,
+    "solving_time_seconds": 691.389,
+    "solution_file": "solution_fcvrp_P301_90_18_3.txt",
+    "visualization_file": "solution_fcvrp_P301_90_18_3.png",
+    "timestamp": "2025-05-27 04:25:22"
+  },
+  "fcvrp_P301_150_13_2.txt": {
+    "cost": 1776,
+    "solving_time_seconds": 411.528,
+    "solution_file": "solution_fcvrp_P301_150_13_2.txt",
+    "visualization_file": "solution_fcvrp_P301_150_13_2.png",
+    "timestamp": "2025-05-27 04:32:20"
+  },
+  "fcvrp_P301_150_16_1.txt": {
+    "cost": 2185,
+    "solving_time_seconds": 891.565,
+    "solution_file": "solution_fcvrp_P301_150_16_1.txt",
+    "visualization_file": "solution_fcvrp_P301_150_16_1.png",
+    "timestamp": "2025-05-27 04:47:18"
+  },
+  "fcvrp_P301_150_16_4.txt": {
+    "cost": 2207,
+    "solving_time_seconds": 999.239,
+    "solution_file": "solution_fcvrp_P301_150_16_4.txt",
+    "visualization_file": "solution_fcvrp_P301_150_16_4.png",
+    "timestamp": "2025-05-27 05:04:04"
+  },
+  "fcvrp_P301_150_18_3.txt": {
+    "cost": 2641,
+    "solving_time_seconds": 400.668,
+    "solution_file": "solution_fcvrp_P301_150_18_3.txt",
+    "visualization_file": "solution_fcvrp_P301_150_18_3.png",
+    "timestamp": "2025-05-27 05:10:51"
+  },
+  "fcvrp_P401_40_8_2.txt": {
+    "cost": 1110,
+    "solving_time_seconds": 738.797,
+    "solution_file": "solution_fcvrp_P401_40_8_2.txt",
+    "visualization_file": "solution_fcvrp_P401_40_8_2.png",
+    "timestamp": "2025-05-27 05:23:13"
+  },
+  "fcvrp_P401_40_14_1.txt": {
+    "cost": 1873,
+    "solving_time_seconds": 2086.578,
+    "solution_file": "solution_fcvrp_P401_40_14_1.txt",
+    "visualization_file": "solution_fcvrp_P401_40_14_1.png",
+    "timestamp": "2025-05-27 05:58:03"
+  },
+  "fcvrp_P401_40_14_4.txt": {
+    "cost": 1744,
+    "solving_time_seconds": 1670.477,
+    "solution_file": "solution_fcvrp_P401_40_14_4.txt",
+    "visualization_file": "solution_fcvrp_P401_40_14_4.png",
+    "timestamp": "2025-05-27 06:25:56"
+  },
+  "fcvrp_P401_40_20_3.txt": {
+    "cost": 2725,
+    "solving_time_seconds": 2936.261,
+    "solution_file": "solution_fcvrp_P401_40_20_3.txt",
+    "visualization_file": "solution_fcvrp_P401_40_20_3.png",
+    "timestamp": "2025-05-27 07:14:56"
+  },
+  "fcvrp_P401_120_13_2.txt": {
+    "cost": 1933,
+    "solving_time_seconds": 1035.656,
+    "solution_file": "solution_fcvrp_P401_120_13_2.txt",
+    "visualization_file": "solution_fcvrp_P401_120_13_2.png",
+    "timestamp": "2025-05-27 07:32:18"
+  },
+  "fcvrp_P401_120_18_1.txt": {
+    "cost": 2893,
+    "solving_time_seconds": 998.953,
+    "solution_file": "solution_fcvrp_P401_120_18_1.txt",
+    "visualization_file": "solution_fcvrp_P401_120_18_1.png",
+    "timestamp": "2025-05-27 07:49:02"
+  },
+  "fcvrp_P401_120_19_4.txt": {
+    "cost": 2873,
+    "solving_time_seconds": 1476.928,
+    "solution_file": "solution_fcvrp_P401_120_19_4.txt",
+    "visualization_file": "solution_fcvrp_P401_120_19_4.png",
+    "timestamp": "2025-05-27 08:13:45"
+  },
+  "fcvrp_P401_120_22_3.txt": {
+    "cost": 3643,
+    "solving_time_seconds": 830.167,
+    "solution_file": "solution_fcvrp_P401_120_22_3.txt",
+    "visualization_file": "solution_fcvrp_P401_120_22_3.png",
+    "timestamp": "2025-05-27 08:27:41"
+  },
+  "fcvrp_P401_200_18_2.txt": {
+    "cost": 2118,
+    "solving_time_seconds": 793.102,
+    "solution_file": "solution_fcvrp_P401_200_18_2.txt",
+    "visualization_file": "solution_fcvrp_P401_200_18_2.png",
+    "timestamp": "2025-05-27 08:41:02"
+  },
+  "fcvrp_P401_200_22_1.txt": {
+    "cost": 2799,
+    "solving_time_seconds": 798.299,
+    "solution_file": "solution_fcvrp_P401_200_22_1.txt",
+    "visualization_file": "solution_fcvrp_P401_200_22_1.png",
+    "timestamp": "2025-05-27 08:54:28"
+  },
+  "fcvrp_P401_200_22_4.txt": {
+    "cost": 2557,
+    "solving_time_seconds": 1409.962,
+    "solution_file": "solution_fcvrp_P401_200_22_4.txt",
+    "visualization_file": "solution_fcvrp_P401_200_22_4.png",
+    "timestamp": "2025-05-27 09:18:07"
+  },
+  "fcvrp_P401_200_26_3.txt": {
+    "cost": 3134,
+    "solving_time_seconds": 943.992,
+    "solution_file": "solution_fcvrp_P401_200_26_3.txt",
+    "visualization_file": "solution_fcvrp_P401_200_26_3.png",
+    "timestamp": "2025-05-27 09:33:59"
   }
 }
