@@ -19,14 +19,15 @@ st.set_page_config(
 # Custom CSS for better styling
 st.markdown("""
 <style>
-    .main-header {
-        font-size: 4rem;
-        font-weight: bold;
-        text-align: center;
-        color: #2C3E50;
-        margin-bottom: 3rem;
-        text-shadow: 2px 2px 4px rgba(0,0,0,0.1);
-    }
+  .main-header {
+    font-size: 2rem !important;  /* Added !important */
+    font-weight: bold !important;  /* Added !important */
+    text-align: center;
+    color: #2C3E50 !important;  /* Added !important */
+    margin-bottom: 3rem;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.1);
+    line-height: 1.2;  /* Added for better spacing with larger text */
+}
     .section-header {
         font-size: 2.5rem;
         font-weight: bold;
