@@ -1880,9 +1880,9 @@
       },
       {
         "route": 2,
-        "load": 2850,
+        "load": 3000,
         "capacity": 3000,
-        "cost": 77
+        "cost": 66
       },
       {
         "route": 3,
@@ -1892,24 +1892,24 @@
       },
       {
         "route": 4,
-        "load": 3000,
+        "load": 2850,
         "capacity": 3000,
-        "cost": 66
+        "cost": 77
       }
     ]
   },
   {
     "instance": "fcvrp_P-n22-k8_11_6_1.txt",
     "valid": true,
-    "total_cost": 616,
+    "total_cost": 479,
     "errors": [],
     "solution_file": "solution_fcvrp_P-n22-k8_11_6_1.txt",
     "route_details": [
       {
         "route": 0,
-        "load": 2950,
+        "load": 2700,
         "capacity": 3000,
-        "cost": 63
+        "cost": 68
       },
       {
         "route": 1,
@@ -1931,15 +1931,15 @@
       },
       {
         "route": 4,
-        "load": 2800,
+        "load": 2850,
         "capacity": 3000,
-        "cost": 155
+        "cost": 77
       },
       {
         "route": 5,
-        "load": 2600,
+        "load": 2800,
         "capacity": 3000,
-        "cost": 172
+        "cost": 108
       }
     ]
   },
@@ -1997,57 +1997,57 @@
   {
     "instance": "fcvrp_P-n22-k8_11_8_3.txt",
     "valid": true,
-    "total_cost": 752,
+    "total_cost": 608,
     "errors": [],
     "solution_file": "solution_fcvrp_P-n22-k8_11_8_3.txt",
     "route_details": [
       {
         "route": 0,
-        "load": 2950,
+        "load": 2650,
         "capacity": 3000,
-        "cost": 72
+        "cost": 87
       },
       {
         "route": 1,
         "load": 2950,
         "capacity": 3000,
-        "cost": 64
+        "cost": 72
       },
       {
         "route": 2,
-        "load": 3000,
+        "load": 2850,
         "capacity": 3000,
-        "cost": 53
+        "cost": 82
       },
       {
         "route": 3,
         "load": 2950,
         "capacity": 3000,
-        "cost": 86
+        "cost": 84
       },
       {
         "route": 4,
-        "load": 2500,
+        "load": 2700,
         "capacity": 3000,
-        "cost": 65
+        "cost": 68
       },
       {
         "route": 5,
         "load": 2900,
         "capacity": 3000,
-        "cost": 150
+        "cost": 111
       },
       {
         "route": 6,
-        "load": 2800,
+        "load": 2750,
         "capacity": 3000,
-        "cost": 155
+        "cost": 43
       },
       {
         "route": 7,
-        "load": 2450,
+        "load": 2750,
         "capacity": 3000,
-        "cost": 107
+        "cost": 61
       }
     ]
   },
@@ -2404,7 +2404,7 @@
         "route": 0,
         "load": 40,
         "capacity": 40,
-        "cost": 62
+        "cost": 81
       },
       {
         "route": 1,
@@ -2414,9 +2414,9 @@
       },
       {
         "route": 2,
-        "load": 40,
+        "load": 38,
         "capacity": 40,
-        "cost": 81
+        "cost": 78
       },
       {
         "route": 3,
@@ -2426,15 +2426,15 @@
       },
       {
         "route": 4,
-        "load": 35,
+        "load": 40,
         "capacity": 40,
-        "cost": 68
+        "cost": 62
       },
       {
         "route": 5,
-        "load": 38,
+        "load": 35,
         "capacity": 40,
-        "cost": 78
+        "cost": 68
       }
     ]
   },
@@ -3599,27 +3599,27 @@
   {
     "instance": "fcvrp_P-n45-k5_5_3_1.txt",
     "valid": true,
-    "total_cost": 295,
+    "total_cost": 296,
     "errors": [],
     "solution_file": "solution_fcvrp_P-n45-k5_5_3_1.txt",
     "route_details": [
       {
         "route": 0,
-        "load": 150,
-        "capacity": 150,
-        "cost": 102
-      },
-      {
-        "route": 1,
         "load": 148,
         "capacity": 150,
         "cost": 87
       },
       {
-        "route": 2,
+        "route": 1,
         "load": 145,
         "capacity": 150,
         "cost": 106
+      },
+      {
+        "route": 2,
+        "load": 150,
+        "capacity": 150,
+        "cost": 103
       }
     ]
   },
@@ -4142,7 +4142,7 @@
   {
     "instance": "fcvrp_P-n50-k10_5_3_2.txt",
     "valid": true,
-    "total_cost": 326,
+    "total_cost": 162,
     "errors": [],
     "solution_file": "solution_fcvrp_P-n50-k10_5_3_2.txt",
     "route_details": [
@@ -4150,19 +4150,19 @@
         "route": 0,
         "load": 100,
         "capacity": 100,
-        "cost": 86
+        "cost": 50
       },
       {
         "route": 1,
         "load": 99,
         "capacity": 100,
-        "cost": 78
+        "cost": 50
       },
       {
         "route": 2,
         "load": 95,
         "capacity": 100,
-        "cost": 162
+        "cost": 62
       }
     ]
   },
@@ -4310,21 +4310,21 @@
     "route_details": [
       {
         "route": 0,
-        "load": 150,
+        "load": 144,
         "capacity": 150,
-        "cost": 98
+        "cost": 91
       },
       {
         "route": 1,
         "load": 150,
         "capacity": 150,
-        "cost": 63
+        "cost": 98
       },
       {
         "route": 2,
-        "load": 144,
+        "load": 150,
         "capacity": 150,
-        "cost": 91
+        "cost": 63
       }
     ]
   },
@@ -5858,7 +5858,7 @@
   {
     "instance": "fcvrp_P-n51-k10_5_7_4.txt",
     "valid": true,
-    "total_cost": 514,
+    "total_cost": 523,
     "errors": [],
     "solution_file": "solution_fcvrp_P-n51-k10_5_7_4.txt",
     "route_details": [
@@ -5872,19 +5872,19 @@
         "route": 1,
         "load": 80,
         "capacity": 80,
-        "cost": 80
+        "cost": 71
       },
       {
         "route": 2,
         "load": 80,
         "capacity": 80,
-        "cost": 42
+        "cost": 78
       },
       {
         "route": 3,
         "load": 80,
         "capacity": 80,
-        "cost": 94
+        "cost": 75
       },
       {
         "route": 4,
@@ -5896,13 +5896,13 @@
         "route": 5,
         "load": 80,
         "capacity": 80,
-        "cost": 75
+        "cost": 46
       },
       {
         "route": 6,
         "load": 80,
         "capacity": 80,
-        "cost": 50
+        "cost": 80
       }
     ]
   },
@@ -6530,7 +6530,7 @@
   {
     "instance": "fcvrp_P-n55-k15_17_13_3.txt",
     "valid": true,
-    "total_cost": 801,
+    "total_cost": 804,
     "errors": [],
     "solution_file": "solution_fcvrp_P-n55-k15_17_13_3.txt",
     "route_details": [
@@ -6544,13 +6544,13 @@
         "route": 1,
         "load": 70,
         "capacity": 70,
-        "cost": 76
+        "cost": 77
       },
       {
         "route": 2,
-        "load": 68,
+        "load": 69,
         "capacity": 70,
-        "cost": 54
+        "cost": 46
       },
       {
         "route": 3,
@@ -6566,15 +6566,15 @@
       },
       {
         "route": 5,
-        "load": 68,
+        "load": 65,
         "capacity": 70,
-        "cost": 50
+        "cost": 61
       },
       {
         "route": 6,
-        "load": 66,
+        "load": 68,
         "capacity": 70,
-        "cost": 70
+        "cost": 54
       },
       {
         "route": 7,
@@ -6590,9 +6590,9 @@
       },
       {
         "route": 9,
-        "load": 70,
+        "load": 69,
         "capacity": 70,
-        "cost": 36
+        "cost": 61
       },
       {
         "route": 10,
@@ -6602,9 +6602,9 @@
       },
       {
         "route": 11,
-        "load": 69,
+        "load": 70,
         "capacity": 70,
-        "cost": 46
+        "cost": 36
       },
       {
         "route": 12,
@@ -6623,9 +6623,9 @@
     "route_details": [
       {
         "route": 0,
-        "load": 62,
+        "load": 70,
         "capacity": 70,
-        "cost": 32
+        "cost": 61
       },
       {
         "route": 1,
@@ -6637,31 +6637,31 @@
         "route": 2,
         "load": 68,
         "capacity": 70,
-        "cost": 88
-      },
-      {
-        "route": 3,
-        "load": 68,
-        "capacity": 70,
         "cost": 36
       },
       {
-        "route": 4,
+        "route": 3,
         "load": 66,
         "capacity": 70,
         "cost": 41
       },
       {
-        "route": 5,
-        "load": 70,
+        "route": 4,
+        "load": 62,
         "capacity": 70,
-        "cost": 61
+        "cost": 32
+      },
+      {
+        "route": 5,
+        "load": 68,
+        "capacity": 70,
+        "cost": 46
       },
       {
         "route": 6,
         "load": 68,
         "capacity": 70,
-        "cost": 46
+        "cost": 88
       }
     ]
   },
@@ -6680,9 +6680,9 @@
       },
       {
         "route": 1,
-        "load": 70,
+        "load": 69,
         "capacity": 70,
-        "cost": 36
+        "cost": 49
       },
       {
         "route": 2,
@@ -6692,15 +6692,15 @@
       },
       {
         "route": 3,
-        "load": 69,
+        "load": 70,
         "capacity": 70,
-        "cost": 49
+        "cost": 36
       },
       {
         "route": 4,
         "load": 70,
         "capacity": 70,
-        "cost": 50
+        "cost": 61
       },
       {
         "route": 5,
@@ -6718,7 +6718,7 @@
         "route": 7,
         "load": 70,
         "capacity": 70,
-        "cost": 61
+        "cost": 50
       }
     ]
   },
@@ -7043,7 +7043,7 @@
   {
     "instance": "fcvrp_P-n55-k15_28_9_2.txt",
     "valid": true,
-    "total_cost": 569,
+    "total_cost": 566,
     "errors": [],
     "solution_file": "solution_fcvrp_P-n55-k15_28_9_2.txt",
     "route_details": [
@@ -7051,55 +7051,55 @@
         "route": 0,
         "load": 70,
         "capacity": 70,
-        "cost": 50
+        "cost": 47
       },
       {
         "route": 1,
-        "load": 70,
+        "load": 69,
         "capacity": 70,
-        "cost": 43
+        "cost": 38
       },
       {
         "route": 2,
-        "load": 69,
+        "load": 70,
         "capacity": 70,
-        "cost": 60
+        "cost": 76
       },
       {
         "route": 3,
-        "load": 69,
+        "load": 70,
         "capacity": 70,
-        "cost": 27
+        "cost": 85
       },
       {
         "route": 4,
-        "load": 70,
+        "load": 69,
         "capacity": 70,
-        "cost": 103
+        "cost": 93
       },
       {
         "route": 5,
         "load": 70,
         "capacity": 70,
-        "cost": 92
+        "cost": 63
       },
       {
         "route": 6,
         "load": 70,
         "capacity": 70,
-        "cost": 67
+        "cost": 43
       },
       {
         "route": 7,
         "load": 70,
         "capacity": 70,
-        "cost": 49
+        "cost": 61
       },
       {
         "route": 8,
         "load": 70,
         "capacity": 70,
-        "cost": 78
+        "cost": 60
       }
     ]
   },
@@ -7274,51 +7274,51 @@
   {
     "instance": "fcvrp_P-n55-k15_6_7_2.txt",
     "valid": true,
-    "total_cost": 508,
+    "total_cost": 341,
     "errors": [],
     "solution_file": "solution_fcvrp_P-n55-k15_6_7_2.txt",
     "route_details": [
       {
         "route": 0,
-        "load": 65,
+        "load": 59,
         "capacity": 70,
-        "cost": 48
+        "cost": 46
       },
       {
         "route": 1,
-        "load": 61,
+        "load": 60,
         "capacity": 70,
-        "cost": 48
+        "cost": 76
       },
       {
         "route": 2,
-        "load": 60,
+        "load": 61,
         "capacity": 70,
-        "cost": 82
+        "cost": 32
       },
       {
         "route": 3,
-        "load": 60,
+        "load": 59,
         "capacity": 70,
-        "cost": 78
+        "cost": 59
       },
       {
         "route": 4,
-        "load": 59,
-        "capacity": 70,
-        "cost": 115
-      },
-      {
-        "route": 5,
-        "load": 56,
+        "load": 70,
         "capacity": 70,
         "cost": 51
       },
       {
-        "route": 6,
-        "load": 69,
+        "route": 5,
+        "load": 59,
         "capacity": 70,
-        "cost": 86
+        "cost": 39
+      },
+      {
+        "route": 6,
+        "load": 62,
+        "capacity": 70,
+        "cost": 38
       }
     ]
   },
@@ -7748,7 +7748,40 @@
     "route_details": [
       {
         "route": 0,
+        "load": 167,
+        "capacity": 170,
+        "cost": 67
+      },
+      {
+        "route": 1,
         "load": 170,
+        "capacity": 170,
+        "cost": 103
+      },
+      {
+        "route": 2,
+        "load": 166,
+        "capacity": 170,
+        "cost": 98
+      },
+      {
+        "route": 3,
+        "load": 170,
+        "capacity": 170,
+        "cost": 88
+      }
+    ]
+  },
+  {
+    "instance": "fcvrp_P-n55-k7_6_5_3.txt",
+    "valid": true,
+    "total_cost": 444,
+    "errors": [],
+    "solution_file": "solution_fcvrp_P-n55-k7_6_5_3.txt",
+    "route_details": [
+      {
+        "route": 0,
+        "load": 169,
         "capacity": 170,
         "cost": 88
       },
@@ -7756,58 +7789,25 @@
         "route": 1,
         "load": 170,
         "capacity": 170,
-        "cost": 87
-      },
-      {
-        "route": 2,
-        "load": 163,
-        "capacity": 170,
-        "cost": 80
-      },
-      {
-        "route": 3,
-        "load": 170,
-        "capacity": 170,
-        "cost": 101
-      }
-    ]
-  },
-  {
-    "instance": "fcvrp_P-n55-k7_6_5_3.txt",
-    "valid": true,
-    "total_cost": 442,
-    "errors": [],
-    "solution_file": "solution_fcvrp_P-n55-k7_6_5_3.txt",
-    "route_details": [
-      {
-        "route": 0,
-        "load": 170,
-        "capacity": 170,
-        "cost": 85
-      },
-      {
-        "route": 1,
-        "load": 170,
-        "capacity": 170,
-        "cost": 85
-      },
-      {
-        "route": 2,
-        "load": 170,
-        "capacity": 170,
         "cost": 109
       },
       {
-        "route": 3,
-        "load": 168,
+        "route": 2,
+        "load": 170,
         "capacity": 170,
-        "cost": 69
+        "cost": 91
+      },
+      {
+        "route": 3,
+        "load": 169,
+        "capacity": 170,
+        "cost": 72
       },
       {
         "route": 4,
         "load": 170,
         "capacity": 170,
-        "cost": 94
+        "cost": 84
       }
     ]
   },
@@ -8024,39 +8024,39 @@
   {
     "instance": "fcvrp_P-n55-k8_28_5_4.txt",
     "valid": true,
-    "total_cost": 712,
+    "total_cost": 453,
     "errors": [],
     "solution_file": "solution_fcvrp_P-n55-k8_28_5_4.txt",
     "route_details": [
       {
         "route": 0,
-        "load": 160,
+        "load": 157,
         "capacity": 160,
-        "cost": 104
+        "cost": 95
       },
       {
         "route": 1,
-        "load": 160,
+        "load": 158,
         "capacity": 160,
-        "cost": 145
+        "cost": 103
       },
       {
         "route": 2,
         "load": 159,
         "capacity": 160,
-        "cost": 158
+        "cost": 92
       },
       {
         "route": 3,
-        "load": 150,
+        "load": 156,
         "capacity": 160,
-        "cost": 117
+        "cost": 72
       },
       {
         "route": 4,
-        "load": 160,
+        "load": 159,
         "capacity": 160,
-        "cost": 188
+        "cost": 91
       }
     ]
   },
@@ -8533,31 +8533,31 @@
         "route": 1,
         "load": 119,
         "capacity": 120,
-        "cost": 72
+        "cost": 74
       },
       {
         "route": 2,
-        "load": 120,
+        "load": 118,
         "capacity": 120,
-        "cost": 73
+        "cost": 74
       },
       {
         "route": 3,
-        "load": 118,
+        "load": 120,
         "capacity": 120,
-        "cost": 65
+        "cost": 66
       },
       {
         "route": 4,
         "load": 120,
         "capacity": 120,
-        "cost": 94
+        "cost": 89
       },
       {
         "route": 5,
         "load": 119,
         "capacity": 120,
-        "cost": 75
+        "cost": 76
       }
     ]
   },
@@ -8780,7 +8780,7 @@
   {
     "instance": "fcvrp_P-n60-k10_6_5_1.txt",
     "valid": true,
-    "total_cost": 324,
+    "total_cost": 321,
     "errors": [],
     "solution_file": "solution_fcvrp_P-n60-k10_6_5_1.txt",
     "route_details": [
@@ -8788,7 +8788,7 @@
         "route": 0,
         "load": 120,
         "capacity": 120,
-        "cost": 72
+        "cost": 70
       },
       {
         "route": 1,
@@ -8806,7 +8806,7 @@
         "route": 3,
         "load": 107,
         "capacity": 120,
-        "cost": 57
+        "cost": 56
       },
       {
         "route": 4,
@@ -8870,7 +8870,7 @@
   {
     "instance": "fcvrp_P-n60-k15_18_13_3.txt",
     "valid": true,
-    "total_cost": 853,
+    "total_cost": 870,
     "errors": [],
     "solution_file": "solution_fcvrp_P-n60-k15_18_13_3.txt",
     "route_details": [
@@ -8878,13 +8878,13 @@
         "route": 0,
         "load": 77,
         "capacity": 80,
-        "cost": 76
+        "cost": 77
       },
       {
         "route": 1,
-        "load": 79,
+        "load": 80,
         "capacity": 80,
-        "cost": 63
+        "cost": 70
       },
       {
         "route": 2,
@@ -8894,21 +8894,21 @@
       },
       {
         "route": 3,
-        "load": 75,
+        "load": 76,
         "capacity": 80,
-        "cost": 69
+        "cost": 71
       },
       {
         "route": 4,
         "load": 80,
         "capacity": 80,
-        "cost": 81
+        "cost": 79
       },
       {
         "route": 5,
-        "load": 80,
+        "load": 79,
         "capacity": 80,
-        "cost": 78
+        "cost": 79
       },
       {
         "route": 6,
@@ -8920,7 +8920,7 @@
         "route": 7,
         "load": 80,
         "capacity": 80,
-        "cost": 75
+        "cost": 79
       },
       {
         "route": 8,
@@ -8942,15 +8942,15 @@
       },
       {
         "route": 11,
-        "load": 70,
+        "load": 69,
         "capacity": 80,
-        "cost": 63
+        "cost": 65
       },
       {
         "route": 12,
         "load": 80,
         "capacity": 80,
-        "cost": 92
+        "cost": 94
       }
     ]
   },
@@ -9008,57 +9008,57 @@
   {
     "instance": "fcvrp_P-n60-k15_18_8_1.txt",
     "valid": true,
-    "total_cost": 781,
+    "total_cost": 491,
     "errors": [],
     "solution_file": "solution_fcvrp_P-n60-k15_18_8_1.txt",
     "route_details": [
       {
         "route": 0,
-        "load": 80,
+        "load": 79,
         "capacity": 80,
-        "cost": 85
+        "cost": 65
       },
       {
         "route": 1,
-        "load": 70,
+        "load": 79,
         "capacity": 80,
-        "cost": 93
+        "cost": 63
       },
       {
         "route": 2,
-        "load": 80,
+        "load": 79,
         "capacity": 80,
-        "cost": 108
+        "cost": 77
       },
       {
         "route": 3,
-        "load": 80,
+        "load": 77,
         "capacity": 80,
-        "cost": 82
+        "cost": 36
       },
       {
         "route": 4,
-        "load": 80,
+        "load": 77,
         "capacity": 80,
-        "cost": 102
+        "cost": 41
       },
       {
         "route": 5,
-        "load": 73,
+        "load": 76,
         "capacity": 80,
-        "cost": 69
+        "cost": 95
       },
       {
         "route": 6,
-        "load": 80,
+        "load": 62,
         "capacity": 80,
-        "cost": 106
+        "cost": 36
       },
       {
         "route": 7,
-        "load": 64,
+        "load": 78,
         "capacity": 80,
-        "cost": 136
+        "cost": 78
       }
     ]
   },
@@ -9073,55 +9073,55 @@
         "route": 0,
         "load": 78,
         "capacity": 80,
-        "cost": 66
+        "cost": 71
       },
       {
         "route": 1,
         "load": 80,
         "capacity": 80,
-        "cost": 75
+        "cost": 61
       },
       {
         "route": 2,
         "load": 80,
         "capacity": 80,
-        "cost": 78
+        "cost": 83
       },
       {
         "route": 3,
-        "load": 80,
+        "load": 78,
         "capacity": 80,
-        "cost": 61
+        "cost": 47
       },
       {
         "route": 4,
-        "load": 78,
+        "load": 80,
         "capacity": 80,
-        "cost": 71
+        "cost": 56
       },
       {
         "route": 5,
-        "load": 80,
+        "load": 79,
         "capacity": 80,
-        "cost": 79
+        "cost": 90
       },
       {
         "route": 6,
         "load": 80,
         "capacity": 80,
-        "cost": 48
+        "cost": 88
       },
       {
         "route": 7,
         "load": 80,
         "capacity": 80,
-        "cost": 78
+        "cost": 48
       },
       {
         "route": 8,
-        "load": 79,
+        "load": 80,
         "capacity": 80,
-        "cost": 57
+        "cost": 69
       }
     ]
   },
@@ -9383,70 +9383,70 @@
   {
     "instance": "fcvrp_P-n60-k15_30_9_2.txt",
     "valid": true,
-    "total_cost": 625,
+    "total_cost": 622,
     "errors": [],
     "solution_file": "solution_fcvrp_P-n60-k15_30_9_2.txt",
     "route_details": [
       {
         "route": 0,
-        "load": 78,
+        "load": 80,
         "capacity": 80,
-        "cost": 81
+        "cost": 47
       },
       {
         "route": 1,
-        "load": 78,
+        "load": 80,
         "capacity": 80,
-        "cost": 103
+        "cost": 58
       },
       {
         "route": 2,
-        "load": 80,
+        "load": 79,
         "capacity": 80,
-        "cost": 50
+        "cost": 90
       },
       {
         "route": 3,
         "load": 80,
         "capacity": 80,
-        "cost": 73
+        "cost": 93
       },
       {
         "route": 4,
-        "load": 80,
+        "load": 78,
         "capacity": 80,
-        "cost": 53
+        "cost": 71
       },
       {
         "route": 5,
         "load": 80,
         "capacity": 80,
-        "cost": 85
+        "cost": 52
       },
       {
         "route": 6,
         "load": 80,
         "capacity": 80,
-        "cost": 60
+        "cost": 48
       },
       {
         "route": 7,
         "load": 80,
         "capacity": 80,
-        "cost": 60
+        "cost": 73
       },
       {
         "route": 8,
-        "load": 80,
+        "load": 79,
         "capacity": 80,
-        "cost": 60
+        "cost": 90
       }
     ]
   },
   {
     "instance": "fcvrp_P-n60-k15_6_10_4.txt",
     "valid": true,
-    "total_cost": 662,
+    "total_cost": 665,
     "errors": [],
     "solution_file": "solution_fcvrp_P-n60-k15_6_10_4.txt",
     "route_details": [
@@ -9490,19 +9490,19 @@
         "route": 6,
         "load": 80,
         "capacity": 80,
-        "cost": 68
+        "cost": 50
       },
       {
         "route": 7,
         "load": 80,
         "capacity": 80,
-        "cost": 50
+        "cost": 70
       },
       {
         "route": 8,
         "load": 80,
         "capacity": 80,
-        "cost": 76
+        "cost": 77
       },
       {
         "route": 9,
@@ -9515,33 +9515,33 @@
   {
     "instance": "fcvrp_P-n60-k15_6_14_3.txt",
     "valid": true,
-    "total_cost": 948,
+    "total_cost": 945,
     "errors": [],
     "solution_file": "solution_fcvrp_P-n60-k15_6_14_3.txt",
     "route_details": [
       {
         "route": 0,
+        "load": 78,
+        "capacity": 80,
+        "cost": 76
+      },
+      {
+        "route": 1,
         "load": 79,
         "capacity": 80,
         "cost": 75
       },
       {
-        "route": 1,
+        "route": 2,
         "load": 76,
         "capacity": 80,
-        "cost": 67
-      },
-      {
-        "route": 2,
-        "load": 79,
-        "capacity": 80,
-        "cost": 50
+        "cost": 83
       },
       {
         "route": 3,
         "load": 80,
         "capacity": 80,
-        "cost": 69
+        "cost": 48
       },
       {
         "route": 4,
@@ -9551,9 +9551,9 @@
       },
       {
         "route": 5,
-        "load": 80,
+        "load": 76,
         "capacity": 80,
-        "cost": 50
+        "cost": 77
       },
       {
         "route": 6,
@@ -9563,45 +9563,45 @@
       },
       {
         "route": 7,
-        "load": 79,
+        "load": 80,
         "capacity": 80,
-        "cost": 96
+        "cost": 61
       },
       {
         "route": 8,
         "load": 80,
         "capacity": 80,
-        "cost": 75
+        "cost": 67
       },
       {
         "route": 9,
-        "load": 79,
+        "load": 80,
         "capacity": 80,
-        "cost": 33
+        "cost": 41
       },
       {
         "route": 10,
-        "load": 74,
+        "load": 79,
         "capacity": 80,
-        "cost": 76
+        "cost": 96
       },
       {
         "route": 11,
-        "load": 80,
+        "load": 78,
         "capacity": 80,
-        "cost": 77
+        "cost": 64
       },
       {
         "route": 12,
-        "load": 79,
+        "load": 78,
         "capacity": 80,
-        "cost": 69
+        "cost": 88
       },
       {
         "route": 13,
-        "load": 78,
+        "load": 79,
         "capacity": 80,
-        "cost": 87
+        "cost": 45
       }
     ]
   },
@@ -9896,15 +9896,15 @@
   {
     "instance": "fcvrp_P-n65-k10_33_7_4.txt",
     "valid": true,
-    "total_cost": 573,
+    "total_cost": 578,
     "errors": [],
     "solution_file": "solution_fcvrp_P-n65-k10_33_7_4.txt",
     "route_details": [
       {
         "route": 0,
-        "load": 130,
+        "load": 128,
         "capacity": 130,
-        "cost": 85
+        "cost": 80
       },
       {
         "route": 1,
@@ -9916,13 +9916,13 @@
         "route": 2,
         "load": 129,
         "capacity": 130,
-        "cost": 99
+        "cost": 100
       },
       {
         "route": 3,
-        "load": 128,
+        "load": 130,
         "capacity": 130,
-        "cost": 67
+        "cost": 77
       },
       {
         "route": 4,
@@ -9940,7 +9940,7 @@
         "route": 6,
         "load": 130,
         "capacity": 130,
-        "cost": 95
+        "cost": 94
       }
     ]
   },
@@ -10004,15 +10004,15 @@
   {
     "instance": "fcvrp_P-n65-k10_33_9_3.txt",
     "valid": true,
-    "total_cost": 723,
+    "total_cost": 719,
     "errors": [],
     "solution_file": "solution_fcvrp_P-n65-k10_33_9_3.txt",
     "route_details": [
       {
         "route": 0,
-        "load": 130,
+        "load": 129,
         "capacity": 130,
-        "cost": 82
+        "cost": 91
       },
       {
         "route": 1,
@@ -10024,43 +10024,43 @@
         "route": 2,
         "load": 129,
         "capacity": 130,
-        "cost": 91
+        "cost": 80
       },
       {
         "route": 3,
         "load": 128,
         "capacity": 130,
-        "cost": 47
+        "cost": 83
       },
       {
         "route": 4,
         "load": 130,
         "capacity": 130,
-        "cost": 89
+        "cost": 80
       },
       {
         "route": 5,
-        "load": 128,
+        "load": 129,
         "capacity": 130,
-        "cost": 81
+        "cost": 56
       },
       {
         "route": 6,
         "load": 130,
         "capacity": 130,
-        "cost": 60
+        "cost": 89
       },
       {
         "route": 7,
         "load": 129,
         "capacity": 130,
-        "cost": 106
+        "cost": 45
       },
       {
         "route": 8,
         "load": 129,
         "capacity": 130,
-        "cost": 91
+        "cost": 119
       }
     ]
   },
@@ -11352,27 +11352,27 @@
   {
     "instance": "fcvrp_P-n76-k5_38_3_2.txt",
     "valid": true,
-    "total_cost": 378,
+    "total_cost": 383,
     "errors": [],
     "solution_file": "solution_fcvrp_P-n76-k5_38_3_2.txt",
     "route_details": [
       {
         "route": 0,
-        "load": 278,
+        "load": 280,
         "capacity": 280,
-        "cost": 137
+        "cost": 127
       },
       {
         "route": 1,
-        "load": 279,
+        "load": 278,
         "capacity": 280,
-        "cost": 123
+        "cost": 139
       },
       {
         "route": 2,
-        "load": 280,
+        "load": 279,
         "capacity": 280,
-        "cost": 118
+        "cost": 117
       }
     ]
   },
